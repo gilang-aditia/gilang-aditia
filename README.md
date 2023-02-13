@@ -3,7 +3,6 @@
 ![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;FullStack+Developer;BackEnd+Developer)
 
 
-![counter](https://enhcyo8rbdva6mr.m.pipedream.net)
 
 
 ### Connect With me
