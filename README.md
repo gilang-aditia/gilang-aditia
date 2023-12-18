@@ -1,7 +1,7 @@
 
 # Hi,I'm Gilang Aditia :computer:
 
-![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;FullStack+Developer;BackEnd+Developer;UI/UX+Designer+Research;Network+Engineering)
+![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;Hardware+Engineer;FrontEnd+Developer;UI/UX+Designer+Research;Network+Engineering)
 ![](https://gilang-aditia.github.io/Portofolioku/)
 
 
