@@ -9,7 +9,7 @@
 
 ### Tools : 🛠
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="6px" height="6px"> 
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px" height="100px"> 
 
 ![](https://github-readme-stats.vercel.app/api?username=gilang-aditia&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gilang-aditia&theme=tokyonight&layout=compact)
