@@ -3,6 +3,8 @@
 ![](https://readme-typing-svg.herokuapp.com?lines=Hardware+Engineer;FrontEnd+Developer;UI/UX+Designer+Research)
 ![](https://gilang-aditia.github.io/Portofolioku/)
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300">
+
 ### Connect With me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gilang-resume.vercel.app/)  
 <a href="https://www.linkedin.com/in/gilang-aditia-b79461231/">
